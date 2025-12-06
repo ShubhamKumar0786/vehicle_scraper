@@ -23,7 +23,7 @@ from scraper import (
 # STREAMLIT UI
 # -------------------------------------------------
 def main():
-    st.set_page_config(page_title="Multi-URL Vehicle Scraper", page_icon="🚗", layout="wide")
+    st.set_page_config(page_title="Multi-URL Vehicle Scraper(#Lvy)", page_icon="🚗", layout="wide")
     
     st.title("🚗 Multi-URL Vehicle Inventory Scraper")
     
